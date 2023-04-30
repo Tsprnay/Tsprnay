@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/tthn0/Spotify-Readme">
+<a href="https://github.com/Tsprnay">
   <img src="https://spotify-8p69aysnt-tsprnay.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 </a>
 
