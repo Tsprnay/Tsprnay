@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square)
 
 <a href="https://github.com/Tsprnay">
-  <img src="https://spotify-8p69aysnt-tsprnay.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+  <img src="https://vercelsp.zenettany.life/api?theme=dark&scan=true" alt="Current Spotify Song">
 </a>
 
 <!--
