@@ -1,4 +1,4 @@
-name: Update Commits Data for Snake
+name: Snake
 
 on:
   # run automatically every day at 8:00
