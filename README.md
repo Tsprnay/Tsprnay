@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![](https://hit.yhype.me/github/profile?user_id=65571116)
 
-<img src='https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake.svg'>
+<img src='https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only'>
