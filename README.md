@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square) [![Snake](https://github.com/Tsprnay/Tsprnay/actions/workflows/main.yml/badge.svg)](https://github.com/Tsprnay/Tsprnay/actions/workflows/main.yml)
 
 <a href="https://github.com/Tsprnay">
   <img src="https://spotify-api-psi.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
