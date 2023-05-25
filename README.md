@@ -2,7 +2,7 @@
 
 ## My name is yasno 🦾
 
-🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+🌱 I’m currently learning: <img style="height: 32px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 ![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square)
 
 <a href="https://github.com/Tsprnay">
