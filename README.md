@@ -2,6 +2,9 @@
 
 #### My name is yasno 🦾
 
+- 🌱 I’m currently learning programming languages such as:
+<img src='https://github.com/Tsprnay/skill-icons/blob/main/icons/Python-Dark.svg'>
+
 ![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square)
 
 <a href="https://github.com/Tsprnay">
