@@ -7,6 +7,15 @@
 - ⚙️ I’m currently using tools such as: \
 <img src='https://github.com/Tsprnay/icons/blob/main/icons/Cloudflare-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/DiscordBots.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PyCharm_Icon.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PhpStorm_Icon.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Photoshop.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Figma-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Premiere.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PuTTY_Icon_upstream.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Notepad%2B%2B_Logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Bing_Fluent_Logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/ChatGPT_logo.svg' style='height: 64px; widht: auto;'>
 
+<details>
+  <summary>Название списка</summary>
+  <ul>
+    <li>Элемент списка 1</li>
+    <li>Элемент списка 2</li>
+    <li>Элемент списка 3</li>
+  </ul>
+</details>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=tsprnay&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
 </div>
