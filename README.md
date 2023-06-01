@@ -8,9 +8,9 @@
 <img src='https://github.com/Tsprnay/icons/blob/main/icons/Cloudflare-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/DiscordBots.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PyCharm_Icon.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PhpStorm_Icon.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Photoshop.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Figma-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Premiere.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/PuTTY_Icon_upstream.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Notepad%2B%2B_Logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/Bing_Fluent_Logo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/ChatGPT_logo.svg' style='height: 64px; widht: auto;'>
 
 <details>
-  <summary>🎶 Vibing to</summary>
+  <summary><h3>🎶 Vibing to</h3></summary>
   <ul>
-    [![Current Spotify Song](https://spotify-api-psi.vercel.app/api?theme=dark&scan=true)](https://github.com/Tsprnay)
+    <a href='https://github.com/Tsprnay'><img src='https://spotify-api-psi.vercel.app/api?theme=dark&scan=true'></a>
   </ul>
 </details>
 
