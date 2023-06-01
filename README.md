@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ![](https://hit.yhype.me/github/profile?user_id=65571116) [![Discord Presence](https://lanyard.cnrad.dev/api/667416365723811840)](https://discord.com/users/667416365723811840)
 
-<img src='https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg'>
+[![](https://github.com/Tsprnay/Tsprnay/blob/output/github-contribution-grid-snake-dark.svg)]
 
 ![](https://komarev.com/ghpvc/?username=tsprnay&color=BC8BFD&style=flat-square)
