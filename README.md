@@ -20,8 +20,8 @@
 </div>
 
 <a href="https://github.com/Tsprnay">
-  <img src="https://spotify-api-psi.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song"> [![Discord Presence](https://lanyard.cnrad.dev/api/667416365723811840)](https://discord.com/users/667416365723811840)
-</a>
+  <img src="https://spotify-api-psi.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+</a> [![Discord Presence](https://lanyard.cnrad.dev/api/667416365723811840)](https://discord.com/users/667416365723811840)
 
 <!--
 **Tsprnay/Tsprnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
