@@ -22,7 +22,13 @@
     <div><img src="http://github-readme-streak-stats.herokuapp.com?user=tsprnay&theme=dark&hide_border=true"></div>
   </ul>
 </details>
- [![Discord Presence](https://lanyard.cnrad.dev/api/667416365723811840)](https://discord.com/users/667416365723811840)
+
+<details>
+  <summary><h3>🎶 My activity</h3></summary>
+  <ul>
+    <a href='https://discord.com/users/667416365723811840'><img src='https://lanyard.cnrad.dev/api/667416365723811840'></a>
+  </ul>
+</details>
 
 <!--
 **Tsprnay/Tsprnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
