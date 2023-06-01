@@ -10,9 +10,9 @@
 <details>
   <summary><h3>📈 Interesting numbers</h3></summary>
   <ul>
-    <img src="https://github-readme-stats.vercel.app/api?username=tsprnay&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsprnay&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=dark"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=tsprnay&theme=dark&hide_border=true">
+    <div><img src="https://github-readme-stats.vercel.app/api?username=tsprnay&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsprnay&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=dark"/></div>
+    <div><img src="http://github-readme-streak-stats.herokuapp.com?user=tsprnay&theme=dark&hide_border=true"></div>
   </ul>
 </details>
 
