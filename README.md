@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><h3>📈 Interesting numbers</h3></summary>
+  <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Chart%20increasing/3D/chart_increasing_3d.png' style='height: 32px; width: auto;'> Interesting numbers</h3></summary>
   <ul>
     <div><img src="https://github-readme-stats.vercel.app/api?username=tsprnay&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/></div>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsprnay&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=dark"/></div>
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><h3>🎶 My activity</h3></summary>
+  <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Ice/3D/ice_3d.png' style='height: 32px; width: auto;'> My activity</h3></summary>
   <ul>
     <a href='https://discord.com/users/667416365723811840'><img src='https://lanyard.cnrad.dev/api/667416365723811840'></a>
   </ul>
