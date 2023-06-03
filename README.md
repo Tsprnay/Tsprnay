@@ -18,8 +18,8 @@
   <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Chart%20increasing/3D/chart_increasing_3d.png' style='height: 32px; width: auto;'> Interesting numbers</h3></summary>
   <ul>
     <div><img src="https://github-readme-stats.vercel.app/api?username=tsprnay&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/></div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsprnay&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=dark"/></div>
-    <div><img src="http://github-readme-streak-stats.herokuapp.com?user=tsprnay&theme=dark&hide_border=true"></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsprnay&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=dark&count_private=true"/></div>
+    <div><img src="http://github-readme-streak-stats.herokuapp.com?user=tsprnay&theme=dark&hide_border=true&count_private=true"></div>
   </ul>
 </details>
 
