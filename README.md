@@ -1,6 +1,6 @@
 ### Hi there <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Waving%20hand/Dark/3D/waving_hand_3d_dark.png' style='height: 32px; width: auto;'>
 
-#### My name is yasno <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
+#### My name is yassno <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> I’m currently learning programming languages such as: \
 <img src='https://github.com/Tsprnay/icons/blob/main/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/HTML.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/Tsprnay/icons/blob/main/icons/CSS.svg' style='height: 64px; widht: auto;'>
