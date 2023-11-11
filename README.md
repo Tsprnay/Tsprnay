@@ -10,7 +10,7 @@
 <details>
   <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Musical%20notes/3D/musical_notes_3d.png' style='height: 32px; width: auto;'> Vibing to</h3></summary>
   <ul>
-    <a href='https://github.com/Tsprnay'><img src='https://spotify-api-psi.vercel.app/api?theme=dark&scan=true'></a>
+    <a href='https://github.com/Tsprnay'><img src='https://spotify-8p69aysnt-tsprnay.vercel.app/api?theme=dark&scan=true'></a>
   </ul>
 </details>
 
