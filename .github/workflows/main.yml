@@ -22,7 +22,7 @@ jobs:
     steps:
       # Generate Snake SVG animation: generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: tsprnay
