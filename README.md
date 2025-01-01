@@ -23,13 +23,6 @@
   </ul>
 </details>
 
-<details>
-  <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Ice/3D/ice_3d.png' style='height: 32px; width: auto;'> My activity</h3></summary>
-  <ul>
-    <a href='https://discord.com/users/667416365723811840'><img src='https://lanyard.cnrad.dev/api/667416365723811840'></a>
-  </ul>
-</details>
-
 <!--
 **Tsprnay/Tsprnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
